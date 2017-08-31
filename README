@@ -1,0 +1,8 @@
+This is a very simple sketch to build the DEPROCASTINATOR. This
+dvice will help you to concentrate in getting things done by
+reminding you every time to keep you focused in the task at hand.
+
+A relay should be hooked up to LED_BUILTIN (usually pin 13).
+
+Alfredo Rius
+alfredo.rius@gmail.com
